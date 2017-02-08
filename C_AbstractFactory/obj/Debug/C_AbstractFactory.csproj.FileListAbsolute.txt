@@ -1,0 +1,12 @@
+H:\OneDrive\Visual Studio 2012\Projects\Lab_CPP_Univer\02_OOP\DesignPatterns\C_AbstractFactory\bin\Debug\C_AbstractFactory.exe.config
+H:\OneDrive\Visual Studio 2012\Projects\Lab_CPP_Univer\02_OOP\DesignPatterns\C_AbstractFactory\obj\Debug\C_AbstractFactory.csprojResolveAssemblyReference.cache
+H:\OneDrive\Visual Studio 2012\Projects\Lab_CPP_Univer\02_OOP\DesignPatterns\C_AbstractFactory\bin\Debug\C_AbstractFactory.exe
+H:\OneDrive\Visual Studio 2012\Projects\Lab_CPP_Univer\02_OOP\DesignPatterns\C_AbstractFactory\bin\Debug\C_AbstractFactory.pdb
+H:\OneDrive\Visual Studio 2012\Projects\Lab_CPP_Univer\02_OOP\DesignPatterns\C_AbstractFactory\obj\Debug\C_AbstractFactory.exe
+H:\OneDrive\Visual Studio 2012\Projects\Lab_CPP_Univer\02_OOP\DesignPatterns\C_AbstractFactory\obj\Debug\C_AbstractFactory.pdb
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_AbstractFactory\bin\Debug\C_AbstractFactory.exe.config
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_AbstractFactory\obj\Debug\C_AbstractFactory.exe
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_AbstractFactory\obj\Debug\C_AbstractFactory.pdb
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_AbstractFactory\bin\Debug\C_AbstractFactory.exe
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_AbstractFactory\bin\Debug\C_AbstractFactory.pdb
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_AbstractFactory\obj\Debug\C_AbstractFactory.csprojResolveAssemblyReference.cache
