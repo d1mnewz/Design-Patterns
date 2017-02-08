@@ -1,0 +1,8 @@
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\bin\Debug\C_Builder.exe.config
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\bin\Debug\C_Builder.exe
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\bin\Debug\C_Builder.pdb
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\obj\Debug\C_Builder.csprojResolveAssemblyReference.cache
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\obj\Debug\C_Builder.exe
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\obj\Debug\C_Builder.pdb
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\bin\Debug\Faker.NET4.dll
+H:\OneDrive\Visual Studio 2012\Projects\DesignPatterns\Design-Patterns\C_Builder\bin\Debug\de-DE\Faker.NET4.resources.dll

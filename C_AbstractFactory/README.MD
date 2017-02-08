@@ -30,3 +30,5 @@ Well done, now we can simplify our code.
             IFaculty engs = new EngiFactory(); // this factory will return only engineers
 			
             Console.WriteLine(engs.GetStudent().desc);
+			
+These pieces of code are almost identic pizda 
