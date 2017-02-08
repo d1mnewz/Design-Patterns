@@ -23,10 +23,10 @@ Then we create a EngiFactory that will return only engineers. And ProgFactory th
 
 Well done, now we can simplify our code. 
 
-			<i>IFaculty progs = new ProgFactory();</i>  // this factory will return only programmers
+			IFaculty progs = new ProgFactory();  // this factory will return only programmers
 			
-            <i>Console.WriteLine(progs.GetStudent().desc);
+            Console.WriteLine(progs.GetStudent().desc);
 
-            IFaculty engs = new EngiFactory();</i> // this factory will return only engineers
+            IFaculty engs = new EngiFactory(); // this factory will return only engineers
 			
-            <i>Console.WriteLine(engs.GetStudent().desc);</i> 
+            Console.WriteLine(engs.GetStudent().desc);
